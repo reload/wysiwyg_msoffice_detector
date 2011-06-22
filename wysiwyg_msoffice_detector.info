@@ -1,0 +1,5 @@
+name = Wysiwyg MS Office copy/paste detector 
+description = Detect and prevent users from saving content copy/pasted from Microsoft Office 
+package = User interface
+core = 6.x
+dependencies[] = wysiwyg
